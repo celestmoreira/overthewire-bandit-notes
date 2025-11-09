@@ -2,7 +2,7 @@
 
 Personal notes documenting my learning while completing the [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) wargame.
 
-> ⚠️ No passwords or direct solutions — only commands, thought process, and lessons learned.
+> ⚠️ No passwords or direct solutions. Only commands, thought process, and lessons learned.
 
 ## Levels
 | Level | Notes |

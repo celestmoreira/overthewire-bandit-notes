@@ -13,19 +13,18 @@ I used `cat` to view its contents, which revealed the password for the next leve
 ---
 
 ### Commands Used
-ssh bandit0@bandit.labs.overthewire.org -p 2220 
-ls 
-cat readme 
-exit 
-ssh bandit1@bandit.labs.overthewire.org -p 2220
+- `ssh bandit0@bandit.labs.overthewire.org -p 2220`
+- `ls` 
+- `cat` `readme` 
+- `exit` 
 
 ---
 
 ### Key Learnings 
-How to connect to a remote Linux server using SSH 
-How to list files in the current directory with `ls` 
-How view file contents using `cat`
-How to navigate basic Linux environments safely 
+- How to connect to a remote Linux server using SSH 
+- How to list files in the current directory with `ls` 
+- How view file contents using `cat`
+- How to navigate basic Linux environments safely 
 
 --- 
 
